@@ -12,6 +12,9 @@ https://github.com/frappe/erpnext/wiki/Setting-up-TLS-SSL-certificates-Let%27s-E
 Outgoing Email
 https://discuss.erpnext.com/t/tutorial-step-by-step-gmail-for-outgoing-email-setup-explained-erpnext-v11/40524
 
+Incoming Email
+https://discuss.erpnext.com/t/incoming-emails-do-not-arrive-to-user-inbox/35966/11
+
 Google Contacts
 https://github.com/frappe/frappe/pull/7625
 https://github.com/frappe/frappe_io/pull/162
