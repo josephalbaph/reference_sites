@@ -9,6 +9,9 @@ https://github.com/frappe/bench/wiki/Multitenant-Setup
 Lets Encrypt
 https://github.com/frappe/erpnext/wiki/Setting-up-TLS-SSL-certificates-Let%27s-Encrypt-for-ERPNext-sites
 
+Outgoing Email
+https://discuss.erpnext.com/t/tutorial-step-by-step-gmail-for-outgoing-email-setup-explained-erpnext-v11/40524
+
 Google Contacts
 https://github.com/frappe/frappe/pull/7625
 https://github.com/frappe/frappe_io/pull/162
