@@ -8,5 +8,5 @@ EMail Link
 https://github.com/frappe/frappe/pull/7601  emailadd+doctype+name@gmail.com  (+ are ignored by gmail and yahoo)
 
 Communication Link
-https://github.com/frappe/frappe/pull/7667  
+https://github.com/frappe/frappe/pull/7467  
 
