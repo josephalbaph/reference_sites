@@ -1,0 +1,2 @@
+bench switch-to-branch version-13-beta frappe erpnext --upgrade
+bench update --patch
