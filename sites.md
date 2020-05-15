@@ -1,5 +1,14 @@
 agiliq.com
 
+MariaDB SSL Setup
+https://www.cyberciti.biz/faq/how-to-setup-mariadb-ssl-and-secure-connections-from-clients/
+
+Multi-Tenant Setup
+https://github.com/frappe/bench/wiki/Multitenant-Setup
+
+Lets Encrypt
+https://github.com/frappe/erpnext/wiki/Setting-up-TLS-SSL-certificates-Let%27s-Encrypt-for-ERPNext-sites
+
 Google Contacts
 https://github.com/frappe/frappe/pull/7625
 https://github.com/frappe/frappe_io/pull/162
