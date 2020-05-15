@@ -1,0 +1,4 @@
+bench config dns_multitenant on
+bench setup nginx
+nginx.conf already exists and this will overwrite it. Do you want to continue? [y/N]: Y
+sudo service nginx reload
