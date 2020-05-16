@@ -10,7 +10,9 @@ Lets Encrypt
 https://github.com/frappe/erpnext/wiki/Setting-up-TLS-SSL-certificates-Let%27s-Encrypt-for-ERPNext-sites
 
 Geolite Database (Nginx)
+sudo apt install xz-utils
 https://mirrors-cdn.liferay.com/geolite.maxmind.com/download/geoip/database/GeoIP.dat.gz
+https://mirrors-cdn.liferay.com/geolite.maxmind.com/download/geoip/database/GeoLiteCity.dat.xz
 
 Outgoing Email
 https://discuss.erpnext.com/t/tutorial-step-by-step-gmail-for-outgoing-email-setup-explained-erpnext-v11/40524
