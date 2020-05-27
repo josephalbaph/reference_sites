@@ -1,5 +1,7 @@
 agiliq.com
 
+https://www.digitalocean.com/community/tutorials/how-to-install-mariadb-on-ubuntu-20-04
+
 MariaDB SSL Setup
 https://www.cyberciti.biz/faq/how-to-setup-mariadb-ssl-and-secure-connections-from-clients/
 
