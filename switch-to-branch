@@ -1,2 +1,7 @@
 bench switch-to-branch version-13-beta frappe erpnext --upgrade
 bench update --patch
+
+Error: Cannot find module ‘graphlib
+find -type d -name node_modules -prune -exec rm -rf {} \;
+bench update --requirements 
+bench setup requirements
