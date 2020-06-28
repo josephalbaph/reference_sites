@@ -1,4 +1,7 @@
+https://www.rosehosting.com/blog/how-to-install-erpnext-on-ubuntu-20-04/
+
 bench switch-to-branch version-13-beta frappe erpnext --upgrade
+bench switch-to-branch version-13-beta-pre-release frappe erpnext --upgrade
 bench update --patch
 
 Error: Cannot find module ‘graphlib
