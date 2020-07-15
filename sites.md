@@ -1,4 +1,11 @@
 agiliq.com
+- templates/includes/footer/footer_powered.html
+- meeting/www/custom-homepage.html:
+{{body}}
+- meeting/www/custom_homepage.py:
+def get_context(context):
+    context['body'] = 'This is a custom homepage'
+
 
 https://www.digitalocean.com/community/tutorials/how-to-install-mariadb-on-ubuntu-20-04
 
