@@ -6,6 +6,12 @@ agiliq.com
 def get_context(context):
     context['body'] = 'This is a custom homepage'
 
+visual studio
+    "[python]": {
+        "editor.insertSpaces": true,
+        "editor.tabSize": 4
+    },
+    
 https://www.geeksforgeeks.org/monkey-patching-in-python-dynamic-behavior/
 
 https://www.digitalocean.com/community/tutorials/how-to-install-mariadb-on-ubuntu-20-04
