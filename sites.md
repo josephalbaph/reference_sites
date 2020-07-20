@@ -6,6 +6,7 @@ agiliq.com
 def get_context(context):
     context['body'] = 'This is a custom homepage'
 
+https://www.geeksforgeeks.org/monkey-patching-in-python-dynamic-behavior/
 
 https://www.digitalocean.com/community/tutorials/how-to-install-mariadb-on-ubuntu-20-04
 
